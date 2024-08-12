@@ -19,4 +19,6 @@ class PDFReader:
                 lines.append(text)        
         return lines
     
+    def get_pdf_page_content(self,pdf_path, page_num):
+        pass
     
