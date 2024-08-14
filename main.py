@@ -1,7 +1,7 @@
-project_num = input("Enter the project number from 1 to 3: ")
+project_num = input("Enter the project number from 1 to 4: ")
 project_num = int(project_num)
 
-if project_num >3 or project_num<1 :
+if project_num >4 or project_num<1 :
     print("Wrong project number, please give within the range ")
     exit()
 
@@ -26,3 +26,8 @@ else:
 
             exit()
 
+        case 4:
+            from project4 import perform_project_4
+            pdf_file = "project4/content/TITAN-Q3-ConCall.pdf"
+            perform_project_4(pdf_file)
+            pass
