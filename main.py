@@ -1,7 +1,7 @@
-project_num = input("Enter the project number from 1 to 5: ")
+project_num = input("Enter the project number from 1 to 8: ")
 project_num = int(project_num)
 
-if project_num >5 or project_num<1 :
+if project_num >8 or project_num<1 :
     print("Wrong project number, please give within the range ")
     exit()
 
@@ -34,4 +34,15 @@ else:
         case 5:
             from project5 import perform_project_5
             perform_project_5("project5/content/Chemistry Questions.pdf")
+            pass
+
+        case 6:
+            from project6 import perform_project_6
+            perform_project_6("project6/content/Chemistry Questions.pdf")
+            pass
+
+        case 7:
+            pass
+
+        case 8:
             pass
