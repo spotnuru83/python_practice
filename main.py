@@ -42,6 +42,8 @@ else:
             pass
 
         case 7:
+            from project7 import perform_project_7
+            perform_project_7()
             pass
 
         case 8:
