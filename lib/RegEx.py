@@ -29,3 +29,7 @@ def modified(text):
     modified_text = re.sub(pattern, ' ', text)
     # modified_text = re.sub(r'\n+$', '', modified_text)
     return modified_text
+
+def replace_special_chars_with(text, repl="_"):
+    cleaned_text = re.sub(r'[^a-zA-Z0-9_]+', repl, text)
+    return cleaned_text

@@ -1,0 +1,36 @@
+
+Article Title:11 Most important command line options for OATS
+Published Date:Thu, 12 Dec 2019 05:36:55 GMT
+Link:https://testingtools.co/oats/11-most-important-command-line-options-for-oats
+Summary:<div><img src="https://testingtools.co/wp-content/uploads/2018/12/runScriptbat.png" style="width: 100%;" /></div>
+-------------------
+
+Article Title:How to record and playback OATS scripts
+Published Date:Mon, 11 Nov 2019 07:06:42 GMT
+Link:https://testingtools.co/oats/how-to-record-and-playback-oats-scripts
+Summary:<div><img src="https://testingtools.co/wp-content/uploads/2016/08/Oracle_Application_Testing_Suite.gif" style="width: 100%;" /></div>
+-------------------
+
+Article Title:OATS – How to capture value from oracle forms & use later
+Published Date:Fri, 14 Jun 2019 05:00:45 GMT
+Link:https://testingtools.co/oats/oats-how-to-capture-value-from-oracle-forms-use-later
+Summary:<div><img src="https://testingtools.co/testingtools.co/wp-content/uploads/2019/06/image.png" style="width: 100%;" /></div>
+-------------------
+
+Article Title:Openscript test data parameterization with databanks
+Published Date:Wed, 02 Nov 2016 05:25:00 GMT
+Link:https://testingtools.co/oats/openscript-test-data-parmeterization-with-databanks
+Summary:<div><img src="https://testingtools.co/testingtools.co/wp-content/uploads/2016/11/Salesforce-sign-up-page.png" style="width: 100%;" /></div>
+-------------------
+
+Article Title:New Features and Updates in OATS 12.5.0.3.0
+Published Date:Fri, 26 Aug 2016 03:56:00 GMT
+Link:https://testingtools.co/oats/new-features-and-updates-in-oats-12-5-0-3-0
+Summary:<div><img src="https://testingtools.co/testingtools.co/wp-content/uploads/2016/08/IE_FF_Chrome_Safari_Emulator_Support_Small.png" style="width: 100%;" /></div>
+-------------------
+
+Article Title:7 Steps to uninstall Oracle Application Testing Suite
+Published Date:Mon, 15 Aug 2016 08:19:00 GMT
+Link:https://testingtools.co/oats/7-steps-to-uninstall-oracle-application-testing-suite-oats
+Summary:<div><img src="https://testingtools.co/testingtools.co/wp-content/uploads/2016/08/DEInstall-Products.png" style="width: 100%;" /></div>
+-------------------

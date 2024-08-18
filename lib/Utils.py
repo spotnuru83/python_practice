@@ -5,7 +5,7 @@ import pdfplumber
 
 def write_lines_to_file(lines, to_file):
     print(to_file)
-    with open(to_file,"w") as file:
+    with open(to_file,"w", encoding='utf-8') as file:
         file.writelines(lines) 
 
 def file_exists ( file_path):
